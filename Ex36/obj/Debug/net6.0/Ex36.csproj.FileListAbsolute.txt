@@ -1,0 +1,15 @@
+C:\Users\vladi\Desktop\HW_5\Ex36\bin\Debug\net6.0\Ex36.exe
+C:\Users\vladi\Desktop\HW_5\Ex36\bin\Debug\net6.0\Ex36.deps.json
+C:\Users\vladi\Desktop\HW_5\Ex36\bin\Debug\net6.0\Ex36.runtimeconfig.json
+C:\Users\vladi\Desktop\HW_5\Ex36\bin\Debug\net6.0\Ex36.dll
+C:\Users\vladi\Desktop\HW_5\Ex36\bin\Debug\net6.0\Ex36.pdb
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfo.cs
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.dll
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\refint\Ex36.dll
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.pdb
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\Ex36.genruntimeconfig.cache
+C:\Users\vladi\Desktop\HW_5\Ex36\obj\Debug\net6.0\ref\Ex36.dll
